@@ -5,7 +5,7 @@
   <div class="fade-overlay" style="position: absolute; bottom: 0; right: 0; width: 30%; height: 30%; background: linear-gradient(to bottom right, transparent, white);"></div>
 </figure>
 
-+91 8547555053 \| [LinkedIn](linkedin.com/NiranjanM) \| [Email](mailto:mangotriniranjan01@outlook.com)
++91 8547555053 \| [Email](mailto:mangotriniranjan01@outlook.com)
 
 ## Objective
 
