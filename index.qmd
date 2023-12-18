@@ -1,0 +1,78 @@
+# Niranjan M
+
+<figure class="image" style="float: right; margin-left: 20px; margin-bottom: 20px; width: 200px; height: 100px; position: relative; overflow: hidden;">
+  <img src="image.jpg" alt="Profile Image" style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
+  <div class="fade-overlay" style="position: absolute; bottom: 0; right: 0; width: 30%; height: 30%; background: linear-gradient(to bottom right, transparent, white);"></div>
+</figure>
+
++91 8547555053 \| [LinkedIn](linkedin.com/NiranjanM) \| [Email](mailto:mangotriniranjan01@outlook.com)
+
+## Objective
+
+Confident, determined, and optimistic engineering graduate with a good understanding of concepts and an open mind to take on new challenges. Relevant experience in the IT industry, gaining transferable skills in networking and strategic planning with a good track record of quickly learning and adapting to new and complex situations.
+
+
+
+## Objective
+
+Confident, determined, and optimistic engineering graduate with a good understanding of concepts and an open mind to take on new challenges. Relevant experience in the IT industry, gaining transferable skills in networking and strategic planning with a good track record of quickly learning and adapting to new and complex situations.
+
+## Education
+
+-   **Master of Technology, Electrical and Electronics Engineering**
+    -   Amrita University, Coimbatore
+    -   Embedded Systems
+    -   Awaiting, *Grade CGPA*
+-   **Bachelor of Technology, Electronics and Communication Engineering**
+    -   Amrita University, Kerala
+    -   Graduated, *7.09/10.0 CGPA*
+
+## Professional Experience
+
+**CyberArk Versions: 11.7 - 12.2**\
+*May 2021 -- August 2023*\
+Chennai
+
+-   Install, configure, and upgrade CyberArk components EPV, CPM, PVWA, PSM, and PTA.
+-   Develop, configure, and integrate CyberArk CPM plug-ins for Windows, Linux Network Switches, Web Applications, and Azure.
+-   Provide defect analysis, Root Cause Analysis, and monitor system health/SOC Incidents/Alerts.
+-   Author, interpret, and review design documentation and SOPs.
+-   Be familiar with tools such as Splunk, Dynatrace, and Azure MIM.
+-   Install Integrations for improving the functionality of the applications.
+-   Utilized scripting languages to develop automation solutions tailored to specific requirements.
+-   Implemented API calls to interface with Cyberark for seamless integration and streamlined workflows.
+-   Integration of the CyberArk Identity with Azure AD.
+
+## Projects
+
+**Automate Detection of Different Sentiments from Textual Comments and Feedback, TCS iON**\
+Analyze the sentiments involved in textual comment or feedback using Natural Language Processing and Tensorflow library.
+
+**Computer Vision with Gluon CV**\
+An overview of Computer Vision (CV), Machine Learning with Amazon Web Services, and creating a CV model with Apache MXNet and GluonCV toolkit. Learned about frameworks including Amazon Rekognition, AWS Deep Learning AMI via Amazon EC2, and Amazon Deep Learning Containers.
+
+**Enhanced Brain Disease Detection with Image Processing and Machine Learning**\
+The project utilizes MATLAB to integrate advanced image processing for detecting brain tumors and hemorrhages. The process involves filtering and region-based segmentation for accurate diagnostics.
+
+## Skills
+
+-   **Python:** Familiar with various aspects of Machine learning and can operate on moderately big datasets.
+-   **GitHub:** Proficient in Git version control, repository management, and Github pages.
+-   **Tensorflow:** The open-source library used to train and improve machine learning models.
+-   **Cyberark:** PAM, IAM.
+-   **Communication/Networking:** Working and collaborating with diverse teams to achieve a common objective.
+-   **Keil µVision 4, 5:** C Programming.
+-   **STM Microcontroller HAL:** Proficient in using Hardware Abstraction Layers (HAL) for configuring ST Microcontrollers.
+-   **Wireshark:** Open-source network packet analyzer.
+-   **Matlab:** Develop image processing techniques for embedded application, digital filters, Signal processing.
+-   **C/Embedded C:** Build code for microcontrollers. Proficient in Data structures, Algorithms.
+
+## Recognitions
+
+-   **Star Performer of the Month - January '22:** Recognized for outstanding achievements in various deployments and team support activities.
+-   **Star Performer of the Month - September '22:** Acknowledged for supporting and completing an application upgrade without service interruption, providing extended support to the team when necessary.
+
+## Community Outreach Programs
+
+-   **Kerala Floods '19:** Provided call center support during the time of the Kerala floods in 2019.
+-   **Live-in-Labs:** Visited and studied problems faced in the Kathiwara village of Madhya Pradesh. Submitted findings to local authorities for preserving and storing rainwater and provided an execution plan for implementation.

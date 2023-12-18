@@ -1,0 +1,8 @@
+---
+title: 'Blog-1: Probability theory and random variables'
+author: 'niranjan'
+date: '2023-11-29'
+categories: [code, analysis]
+---
+
+**Gaining Insights into Diabetes with Data Science**

@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+
+website:
+  title: "Portfolio"
+  
+  navbar:
+    right:
+      - icon: github
+        href: https://github.com/mangotri-nirnajan
+      - icon: linkedin
+        href: https://www.linkedin.com/in/niranjan-m-80a1b7195/
+format:
+  html:
+    theme: cyborg
+    css: styles.css
+
+
+
+  
+  
+    
+    
