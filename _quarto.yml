@@ -14,7 +14,7 @@ website:
         href: https://www.linkedin.com/in/niranjan-m-80a1b7195/
 format:
   html:
-    theme: cyborg
+    theme: lux
     css: styles.css
 
 
